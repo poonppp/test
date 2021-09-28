@@ -1,5 +1,4 @@
-import math
-def new(x):
-    return math.sin(x)
+def hel(x):
+    return x*2
 
-print(new(1))
+print(hel(2))
